@@ -1,4 +1,4 @@
-<h1 class="center"> ProyectoMOEA </h1>
+<center><h1> ProyectoMOEA </h1></center>
 Hola, este Github es correspondiente al parcial 3 de Lógica y Optimización Aplicada.
 
 ## Ejecución del Proyecto MOEA
