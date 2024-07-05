@@ -1,2 +1,2 @@
 # ProyectoMOEA
-Repositorio correspondiente al parcial 3 de lógica y optimización 
+Hola, este Github es correspondiente al parcial 3 de Lógica y Optimización, el mismo lo realice en grupo con 
