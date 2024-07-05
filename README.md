@@ -1,5 +1,5 @@
 # ProyectoMOEA
-Hola, este Github es correspondiente al parcial 3 de Lógica y Optimización Aplicada, el mismo lo realice con Morandi Jeremias, Benemerito Ignacio, Jofre Santiago y Macas Sevilla Diana Nathasha.
+Hola, este Github es correspondiente al parcial 3 de Lógica y Optimización Aplicada.
 
 ## Ejecución del Proyecto MOEA
 
